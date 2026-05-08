@@ -10,3 +10,19 @@ Una vez tengas el codigo, presionamos control+ñ y se abre la terminal, ponemos 
 
  
  <img width="646" height="147" alt="image" src="https://github.com/user-attachments/assets/e01d75fa-785f-4fa6-a54d-de65f0af9969" />
+
+
+ ## PASO A:
+
+Conéctate al contenedor usando ssh alumno@localhost -p 2222. Evalúa el uso de localhost o 127.0.0.1. La contraseña es sistemas_informaticos
+
+Lo que he cambiado a sido que he quitado del alumno@localhost a alumno@127.0.0.1 y ponemos que la contraseña que es sistemas_informaticos.
+
+
+
+<img width="541" height="82" alt="image" src="https://github.com/user-attachments/assets/5716071e-b693-4e02-a5c0-2f049642f2b9" />
+
+
+
+
+
