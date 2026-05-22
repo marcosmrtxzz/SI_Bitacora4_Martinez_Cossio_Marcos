@@ -33,3 +33,10 @@ Desarrollo de Aplicaciones Web
 
 ## Mensajería:
    - Para que la comunicacion interna de nuestro equipo vamos a usar Microdoft Teams, es la herramienta que va a ser compartir las incidencias tecnica que nos ocurran, tambien las videollamadas y alertas del servidor    º      cuando tenga un problema de caidas, historial de mensajes y coordinacion del proyecto.
+
+## 4. Justificación Científica.
+   - Se aborda la problemática actual de la microempresa del sector tecnológico seleccionada en la cual todos los procesos se los lleva sin el uso de programas o sistemas informáticos que agiliten y reduzcan el trabajo,       asimismo se presenta la implementación de la herramienta de planificación de recursos empresariales (ERP) Open Source Odoo 9, que permita contar con información oportuna y a tiempo, como soporte a la toma de               decisiones y    automatizar los procesos, mejorando la productividad y control como propuesta de solución a los inconvenientes existentes en cada área.
+     
+## Referencias:
+
+F. Freire, Lenin, Director, "Implementación del ERP Open Source Odoo en una PYME", Freire, Lenin, Director, . [Online]. Available: https://www.dspace.espol.edu.ec/handle/123456789/38698. [Accessed: 05-22-2026].
