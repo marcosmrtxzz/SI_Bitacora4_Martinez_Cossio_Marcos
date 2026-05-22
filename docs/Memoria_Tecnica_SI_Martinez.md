@@ -19,4 +19,6 @@ Desarrollo de Aplicaciones Web
    Una de las ventajas de Guacamole es que no necesita agentes instalados en las máquinas a las que se desea acceder. Esto significa que los servidores o equipos remotos no requieren software adicional. Esto reduce la carga administrativa, evita problemas de compatibilidad y disminuye la superficie de ataque. No se añaden componentes externos que deban mantenerse o actualizarse.  
    El acceso a Guacamole se realiza desde un navegador, lo que lo convierte en una herramienta especialmente útil para entornos donde se utilizan múltiples dispositivos. El usuario puede conectarse a sus recursos corporativos de forma segura, centralizada y consistente, sin depender de configuraciones locales ni de la instalación de clientes pesados. En conjunto, Guacamole ofrece una solución robusta, flexible y moderna para la gestión de accesos remotos en infraestructuras profesionales.
 
-	
+ ## 2. Estimación de Costes de Infraestructura
+
+<img width="903" height="326" alt="image" src="https://github.com/user-attachments/assets/c8b1c597-02f7-48d0-966e-e34782a243a2" />
