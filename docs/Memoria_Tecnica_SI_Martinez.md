@@ -22,3 +22,14 @@ Desarrollo de Aplicaciones Web
  ## 2. Estimación de Costes de Infraestructura
 
 <img width="903" height="326" alt="image" src="https://github.com/user-attachments/assets/c8b1c597-02f7-48d0-966e-e34782a243a2" />
+
+## 3. Estrategia de Despliegue y Comunicación.
+
+   - Para lanzar nuestra aplicacion en produccion, hemos elegido SFTP ya que es un sistemas que nos sentimos bastante seguro a la hora de trabjar con ellosy ademas tiene un cifrado para tranferir los archivos del             ordenador al servidor. Funciona sobre SSH, por lo que permite que tanto las credenciales y como la informacion esten protegidas con el cifrado tan bueno que realizan, gracias a eso, podemos evitar los riesgo de            seguridad y accesos que no queramos como puede ser los no deseados.
+
+   - No utilizaremos el FTP porque los trasmite en texto plano y eso hace que sea muy vulnerable, tambien podemos utilizar GitHub actions o google cloud.
+
+   - El proceso sera conectar muestro ordenador al servidor mediante visual code con SSH por ejemplo. Una vez que esten conectado, se sube un archivo a la aplicacion y lo configuramos
+
+## Mensajería:
+   - Para que la comunicacion interna de nuestro equipo vamos a usar Microdoft Teams, es la herramienta que va a ser compartir las incidencias tecnica que nos ocurran, tambien las videollamadas y alertas del servidor    º      cuando tenga un problema de caidas, historial de mensajes y coordinacion del proyecto.
